@@ -49,7 +49,7 @@ const About = () => {
           </div>
           
           <p>
-            Here contains the para about me
+            Currently pursuing B.Tech in Information Technology from NSUT(Delhi). SWD Intern at MiniOrange. I love solving problems and have a keen interst in Competitive Programming.
           </p>
           
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
