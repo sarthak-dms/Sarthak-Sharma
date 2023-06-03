@@ -29,7 +29,7 @@
     row-gap: 2rem;
 }
 
-.experience__details{
+.experience__detail{
     display: flex;
     gap: 1rem;
 }

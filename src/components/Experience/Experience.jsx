@@ -10,33 +10,47 @@ const Experience = () => {
       
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Languages and Frameworks</h3>
           <div className="experience__content">
             <article className='experience__detail'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>first</h4>
+                <h4>C/C++</h4>
                 <small className='text-light'>experienced</small>
               </div>
             </article>
-            <article>
+            <article className='experience__detail'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>second</h4>
+                <h4>Javascript</h4>
                 <small className='text-light'>experienced</small>
               </div>
             </article>
-            <article>
+            <article className='experience__detail'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>third</h4>
+                <h4>React Js</h4>
                 <small className='text-light'>experienced</small>
               </div>
             </article>
-            <article>
+            <article className='experience__detail'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>forth</h4>
+                <h4>Node Js</h4>
+                <small className='text-light'>experienced</small>
+              </div>
+            </article>
+            <article className='experience__detail'>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Express Js</h4>
+                <small className='text-light'>experienced</small>
+              </div>
+            </article>
+            <article className='experience__detail'>
+              <BsFillPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Python</h4>
                 <small className='text-light'>experienced</small>
               </div>
             </article>
@@ -44,34 +58,34 @@ const Experience = () => {
         </div>
         
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Online Judges</h3>
           <div className="experience__content">
               <article className='experience__detail'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>first</h4>
-                  <small className='text-light'>experienced</small>
+                  <h4>LeetCode</h4>
+                  <small className='text-light'><b>Knight</b> on Leetcode, with more than 700 problems solved</small>
                 </div>
               </article>
-              <article>
+              <article className='experience__detail'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>second</h4>
-                  <small className='text-light'>experienced</small>
+                  <h4>Codeforces</h4>
+                  <small className='text-light'>Specialist on Codeforces</small>
                 </div>
               </article>
-              <article>
+              <article className='experience__detail'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>third</h4>
-                  <small className='text-light'>experienced</small>
+                  <h4>Codechef</h4>
+                  <small className='text-light'>4* on codechef</small>
                 </div>
               </article>
-              <article>
+              <article className='experience__detail'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>forth</h4>
-                  <small className='text-light'>experienced</small>
+                  <h4>Google Kickstart</h4>
+                  <small className='text-light'>Best rank 1200</small>
                 </div>
               </article>
             </div>
