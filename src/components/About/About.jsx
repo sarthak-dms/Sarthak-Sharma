@@ -33,8 +33,17 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <br></br>
+              <h5>SDE</h5> @QuantX Technology
               <br></br>
-              <h5>SWD Intern</h5> at miniOrange
+              <small>Aug 2024 - Present</small>
+              <br></br>
+              <br></br>
+              <h5>SDE Intern</h5> @OYO Rooms
+              <br></br>
+              <small>Jan 2024 - Aug 2024</small>
+              <br></br>
+              <br></br>
+              <h5>SDE Intern</h5> @miniOrange
               <br></br>
               <small>May 2023 - July 2023</small>
             </article>
@@ -43,6 +52,7 @@ const About = () => {
               <VscFolderLibrary className='about__icon'/>
               <br></br>
               <br></br>
+              <div><b>B.Tech</b> - <small>8.23 CGPA</small></div>
               <div><b>12th</b> - <small>76%</small></div>
               <div><b>10th</b> - <small>10CGPA</small></div>
             </article>

@@ -1,13 +1,7 @@
-import React from 'react'
-
+import React, { useState } from 'react'
+import {AiOutlineHome, AiOutlineUser, AiOutlineContacts} from 'react-icons/ai'
+import { BiBook } from 'react-icons/bi'
 import './nav.css'
-import {AiOutlineHome} from 'react-icons/ai'
-import {AiOutlineUser} from 'react-icons/ai'
-import {BiBook} from 'react-icons/bi'
-import {AiOutlineContacts} from 'react-icons/ai'
-
-import {useState} from 'react'
-
 
 const Nav = () => {
   const [activeNav,setActiveNav] = useState('#');
