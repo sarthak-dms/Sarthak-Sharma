@@ -54,7 +54,7 @@ const About = () => {
               <br></br>
               <div><b>B.Tech</b> - <small>8.23 CGPA</small></div>
               <div><b>12th</b> - <small>76%</small></div>
-              <div><b>10th</b> - <small>10CGPA</small></div>
+              <div><b>10th</b> - <small>10 CGPA</small></div>
             </article>
           </div>
           
