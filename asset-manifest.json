@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sarthak-Sharma/static/css/main.fec9ca04.css",
-    "main.js": "/Sarthak-Sharma/static/js/main.7ab9ff33.js",
+    "main.css": "/Sarthak-Sharma/static/css/main.8dfed27e.css",
+    "main.js": "/Sarthak-Sharma/static/js/main.b900a0ac.js",
     "static/media/me.png": "/Sarthak-Sharma/static/media/me.04662c7f7f67c85eab6a.png",
-    "static/media/cv.pdf": "/Sarthak-Sharma/static/media/cv.4de38996c9e0855c57fb.pdf",
+    "static/media/cv.pdf": "/Sarthak-Sharma/static/media/cv.8ba223e31848a4db566e.pdf",
     "index.html": "/Sarthak-Sharma/index.html",
-    "main.fec9ca04.css.map": "/Sarthak-Sharma/static/css/main.fec9ca04.css.map",
-    "main.7ab9ff33.js.map": "/Sarthak-Sharma/static/js/main.7ab9ff33.js.map"
+    "main.8dfed27e.css.map": "/Sarthak-Sharma/static/css/main.8dfed27e.css.map",
+    "main.b900a0ac.js.map": "/Sarthak-Sharma/static/js/main.b900a0ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.fec9ca04.css",
-    "static/js/main.7ab9ff33.js"
+    "static/css/main.8dfed27e.css",
+    "static/js/main.b900a0ac.js"
   ]
 }
